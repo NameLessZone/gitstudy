@@ -17,5 +17,12 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+# custom
+*.log
+temp/
+tmp/
+_output/
+static/
+
 # Go workspace file
 go.work
